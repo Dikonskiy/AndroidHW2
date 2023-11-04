@@ -15,4 +15,3 @@ dependencyResolutionManagement {
 
 rootProject.name = "AndroidHW2"
 include(":app")
- 
